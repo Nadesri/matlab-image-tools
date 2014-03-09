@@ -1,3 +1,7 @@
+================
+MATLAB Image Tools
+==================
+
 A GitHub Repository for: imTools
 
 Authored by Nade Sritanyaratana
